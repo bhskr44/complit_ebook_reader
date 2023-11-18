@@ -35,6 +35,6 @@ public class ReaderConfig {
         config.setShowRemainingIndicator(true);
         config.setShowTts(showTts);
         config.setNightMode(nightMode);
-        config.allowSharing(allowSharing);
+        // config.allowSharing(allowSharing);
     }
 }
